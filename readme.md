@@ -18,5 +18,6 @@
 - Challenge #015: On/Off switch. <br>
 - Challenge #016: Pop-up overlay. <br>
 - Challenge #017: Purchase receipt. <br>
+- Challenge #018: Analytics chart <br>
 
 Check-out the projects on [Dribble](https://dribbble.com/asharibali). 
