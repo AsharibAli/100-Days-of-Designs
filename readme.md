@@ -18,8 +18,8 @@
 - Challenge #015: On/Off switch. <br>
 - Challenge #016: Pop-up overlay. <br>
 - Challenge #017: Purchase receipt. <br>
-- Challenge #018: Analytics chart. <br>
-- Challenge #019: Leaderboard. <br>
-- Challenge #020: Location Tracker. <br>
+- Challenge #018: Analytics chart <br>
+- Challenge #021: Home Monitoring Dashboard.  <br>
+
 
 Check-out the projects on [Dribble](https://dribbble.com/asharibali). 
